@@ -18,7 +18,7 @@
 
 ### Frameworks and Libraries
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%a6120d.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%c3002f.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 
 #### Programming Languages
