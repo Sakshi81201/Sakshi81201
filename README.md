@@ -40,7 +40,8 @@
 <img align="left" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
 <br>
-### Stats
+
+#### Stats
 <img src = "https://github-readme-stats.vercel.app/api?username=Sakshi81201&show_icons=true&theme=radical">
 
 <!-- Total Visitors Badge -->
