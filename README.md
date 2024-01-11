@@ -5,9 +5,9 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sakshi81201.Sakshi81201) -->
 
 🏡 &nbsp; I am from Wardha, Maharashtra.  
-🎓 &nbsp; Currently pursuing B.Tech in Computer Science and Engineering at Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded.  
+🎓 &nbsp; Graduated in B.Tech Computer Science and Engineering from Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded.  
 ❤️ &nbsp; Learning new technologies and applying them in the real-world is my passion.  
-💬 &nbsp; Looking for internship where I can apply my knowledge which I have.  
+💬 &nbsp; Looking for job opportunities where I can apply my knowledge which I have.  
 📫 &nbsp; Reach me on any of the platforms given above!
 
 #### Frontend
